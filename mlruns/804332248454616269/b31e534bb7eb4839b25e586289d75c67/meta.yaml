@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/804332248454616269/b31e534bb7eb4839b25e586289d75c67/artifacts
+end_time: 1792255157185
+entry_point_name: ''
+experiment_id: '804332248454616269'
+lifecycle_stage: active
+run_id: b31e534bb7eb4839b25e586289d75c67
+run_name: valuable-ram-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792255153078
+status: 3
+tags: []
+user_id: sacx

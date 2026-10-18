@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d499fee4d0a34b74ae1b6dc14b8c853b/artifacts
+end_time: 1791093040124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d499fee4d0a34b74ae1b6dc14b8c853b
+run_name: agreeable-shrimp-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791093040080
+status: 3
+tags: []
+user_id: sacx

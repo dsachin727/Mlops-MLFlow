@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a8339c54c57425ca761aef90ae28987/artifacts
+end_time: 1791128762986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a8339c54c57425ca761aef90ae28987
+run_name: nosy-zebra-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791128762601
+status: 3
+tags: []
+user_id: sacx

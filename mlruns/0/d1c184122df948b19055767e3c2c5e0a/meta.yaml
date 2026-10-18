@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d1c184122df948b19055767e3c2c5e0a/artifacts
+end_time: 1791092887248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1c184122df948b19055767e3c2c5e0a
+run_name: blushing-zebra-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791092887241
+status: 4
+tags: []
+user_id: sacx

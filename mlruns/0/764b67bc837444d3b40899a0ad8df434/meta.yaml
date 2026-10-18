@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/764b67bc837444d3b40899a0ad8df434/artifacts
+deleted_time: 1791119720212
+end_time: 1791119439505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 764b67bc837444d3b40899a0ad8df434
+run_name: useful-turtle-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791119439190
+status: 4
+tags: []
+user_id: sacx

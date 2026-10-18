@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/804332248454616269/fb0ae80d8b8e44658dfb7ca7f4788a69/artifacts
+end_time: 1792255319522
+entry_point_name: ''
+experiment_id: '804332248454616269'
+lifecycle_stage: active
+run_id: fb0ae80d8b8e44658dfb7ca7f4788a69
+run_name: vaunted-yak-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792255315775
+status: 3
+tags: []
+user_id: sacx

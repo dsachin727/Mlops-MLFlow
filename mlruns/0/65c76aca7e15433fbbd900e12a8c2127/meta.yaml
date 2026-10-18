@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/65c76aca7e15433fbbd900e12a8c2127/artifacts
+deleted_time: 1791129023324
+end_time: 1791128999408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 65c76aca7e15433fbbd900e12a8c2127
+run_name: resilient-trout-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791128999040
+status: 3
+tags: []
+user_id: sacx

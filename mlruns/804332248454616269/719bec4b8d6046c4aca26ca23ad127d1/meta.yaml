@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/804332248454616269/719bec4b8d6046c4aca26ca23ad127d1/artifacts
+end_time: 1792255039686
+entry_point_name: ''
+experiment_id: '804332248454616269'
+lifecycle_stage: active
+run_id: 719bec4b8d6046c4aca26ca23ad127d1
+run_name: selective-whale-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792255039076
+status: 4
+tags: []
+user_id: sacx

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/72dacdd1140641d99635a3684e4892d5/artifacts
+deleted_time: 1791129023324
+end_time: 1791128938149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 72dacdd1140641d99635a3684e4892d5
+run_name: respected-zebra-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791128937720
+status: 3
+tags: []
+user_id: sacx

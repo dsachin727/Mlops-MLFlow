@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c472603694924ec08ea5dda8619fcd58/artifacts
+end_time: 1791120318776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c472603694924ec08ea5dda8619fcd58
+run_name: nervous-duck-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791120318356
+status: 3
+tags: []
+user_id: sacx

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/11a21fd499b14238a67f438048bb866f/artifacts
+deleted_time: 1791129114553
+end_time: 1791129103656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 11a21fd499b14238a67f438048bb866f
+run_name: honorable-carp-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791129103255
+status: 3
+tags: []
+user_id: sacx
